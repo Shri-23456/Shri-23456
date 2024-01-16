@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shri-23456
 - 👀 I’m interested in DATA VISUALIZATION, DATA ANALYSIS 
 - 🌱 I’m currently learning TABLEAU AND POWER BI
+- TABLEAU PROFILE LINK - https://public.tableau.com/app/profile/shriya.v./vizzes
 
 
 <!---
